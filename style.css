@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  margin-bottom: 10px;
+  text-align: center;
+  width: 405px;
+  color: snow;
+  border: solid black 28px;
+  background: black;
+  font-size: 35px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+input[type="text"] {
+  background: snow;
+  border: solid black 30px;
+  width: 100%;
+  font-size: 25px;
+}
+input[type="button"] {
+  background: black;
+  color: snow;
+  border: solid black 30px;
+  width: 100%;
+  font-size: 25px;
+}
